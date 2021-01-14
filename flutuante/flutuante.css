@@ -100,6 +100,22 @@
     border-bottom-right-radius: 20px;
     border-top-left-radius: 20px;
   }
+@media (max-width: 575px) { 
+      .whatsapp 
+      {
+        bottom: 30px;
+      }
+      .fixed-action-btn
+      {
+        position:fixed;
+        padding-top:15px;
+        margin-bottom:14px;
+        z-index:997;
+        bottom:85px;
+        right:24px;
+      }
+      
+  }
 
 
   
